@@ -1,0 +1,19 @@
+<module>
+
+	<!-- Inherit the core Web Toolkit stuff.                  -->
+	<inherits name='com.google.gwt.user.User'/>
+
+	<!-- Specify the app entry point class.                   -->
+	<entry-point class='org.freeswitch.client.client.FSConsole'/>
+	
+	<!-- Other -->
+        <inherits name='com.google.gwt.http.HTTP'/>
+	<inherits name='com.fredhat.gwt.xmlrpc.XMLRPC'/>
+  
+  	<inherits name="com.google.gwt.user.theme.standard.Standard"/>
+  	<!-- <inherits name="com.google.gwt.user.theme.chrome.Chrome"/> -->
+  	<!-- <inherits name="com.google.gwt.user.theme.dark.Dark"/> -->
+
+        <!-- Styles -->
+        <stylesheet src='FSConsole.css' />
+</module>

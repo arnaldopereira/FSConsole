@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+<wb-module deploy-name="FSConsole">
+<wb-resource deploy-path="/" source-path="/WebContent"/>
+<wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+<wb-resource deploy-path="/" source-path="/build/gwtOutput/org.freeswitch.client.FSConsole"/>
+<wb-resource deploy-path="/" source-path="/build/gwtOutput/org.freeswitch.client.client.UI"/>
+<property name="context-root" value="FSConsole"/>
+<property name="java-output-path"/>
+</wb-module>
+</project-modules>
