@@ -1,0 +1,7 @@
+FSConsole
+
+A web-based console for acessing the FreeSWITCH console through a web browser. This code is old
+and not guaranteed to work with modern versions of FreeSWITCH, nor with current GWT compilers.
+
+The build/FSConsole.zip file contains the compiled code that you might unzip to your htdocs dir
+and open it on a browser straight away.
